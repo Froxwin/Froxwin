@@ -20,4 +20,4 @@ cool stuff →
 Oh holy father who lives in the lambda. May your free variables stay unbound. liftM our minds into a higher StateT and let us find enlightenment. Deliver us from impurity, thy monad is great. Amen.
 <img src="https://cdn.discordapp.com/emojis/973571474982051860.webp?size=128&quality=lossless" alt="drawing" width="20"/>
 
-ᓚᘏᗢ <--- pet this cat
+[ᓚᘏᗢ](https://froxwin.github.io/) <--- pet this cat

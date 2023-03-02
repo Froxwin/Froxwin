@@ -6,7 +6,7 @@
 
 |       | |
 | ----------- | ----------- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Froxwin&theme=rose_pine&show_icons=true&count_private=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Froxwin&theme=rose_pine&layout=compact) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Froxwin&theme=rose_pine&show_icons=true&count_private=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Froxwin&theme=rose_pine&layout=compact&langs_count=10) |
 
 cool stuff →
 

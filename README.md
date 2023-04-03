@@ -21,3 +21,5 @@ Oh holy father who lives in the lambda. May your free variables stay unbound. li
 <img src="https://cdn.discordapp.com/emojis/973571474982051860.webp?size=128&quality=lossless" alt="drawing" width="20"/>
 
 [ᓚᘏᗢ](https://froxwin.github.io/) <--- pet this cat
+
+![](https://count.chiya.dev/get/@Froxwin?theme=rule34)
